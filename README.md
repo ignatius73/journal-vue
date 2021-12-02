@@ -1,25 +1,20 @@
-# journal
+# journalapp
 
-## Project setup
-```
-yarn install
-```
+## 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+A Vue exercise from the Udemy's Vue Course of Fernando Herrera.
 
-### Compiles and minifies for production
+### Deployed on netlify 
 ```
-yarn build
+https://journalapp-vue.netlify.app/
 ```
 
-### Lints and fixes files
+### Firebase RealTime Database
 ```
-yarn lint
+Using Firebase as backend
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# journal-vue" 
+### Cloudinary
+```
+Using Cloudinary as a bank of images
+```
